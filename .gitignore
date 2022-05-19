@@ -15,10 +15,6 @@ local.properties
 .loadpath
 .recommenders
 
-
-pom.properties
-MANIFEST
-
 # External tool builders
 .externalToolBuilders/
 
