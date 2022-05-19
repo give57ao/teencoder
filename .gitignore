@@ -128,6 +128,7 @@ Temporary Items
 *.icloud
 
 *.mf
+.classpath
 
 
 # End of https://www.toptal.com/developers/gitignore/api/java,eclipse,macos
