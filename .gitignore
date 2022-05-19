@@ -130,6 +130,6 @@ Temporary Items
 MANIFEST.MF
 .classpath
 HomeController.java
-
+org.eclipse.wst.common.component
 
 # End of https://www.toptal.com/developers/gitignore/api/java,eclipse,macos
