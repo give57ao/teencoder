@@ -15,10 +15,6 @@ local.properties
 .loadpath
 .recommenders
 
-
-pom.properties
-MANIFEST
-
 # External tool builders
 .externalToolBuilders/
 
@@ -130,5 +126,9 @@ Temporary Items
 ### macOS Patch ###
 # iCloud generated files
 *.icloud
+
+*.mf
+.classpath
+
 
 # End of https://www.toptal.com/developers/gitignore/api/java,eclipse,macos
