@@ -127,4 +127,7 @@ Temporary Items
 # iCloud generated files
 *.icloud
 
+*.mf
+
+
 # End of https://www.toptal.com/developers/gitignore/api/java,eclipse,macos
