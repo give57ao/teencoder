@@ -131,5 +131,7 @@ MANIFEST.MF
 .classpath
 HomeController.java
 org.eclipse.wst.common.component
+pom.properties
+
 
 # End of https://www.toptal.com/developers/gitignore/api/java,eclipse,macos
