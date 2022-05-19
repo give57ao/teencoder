@@ -127,7 +127,7 @@ Temporary Items
 # iCloud generated files
 *.icloud
 
-*.mf
+MANIFEST.MF
 .classpath
 
 
