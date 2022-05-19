@@ -19,7 +19,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 =======
 //hihihi
 //HIHIHIHI
-//hihihihihihihi
+//hihihihihihihihi
 >>>>>>> main
 @Controller
 public class HomeController {
